@@ -1,5 +1,4 @@
 # AirAI
-Trae
 
 I'll help you create agents for analyzing building floor energy consumption data. Let's implement a comprehensive system that can monitor, store, and analyze energy usage data for each floor.
 
