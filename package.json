@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "docker:build": "docker build -t habitai .",
+    "docker:run": "docker run -p 3000:3000 habitai"
+  }
+}
